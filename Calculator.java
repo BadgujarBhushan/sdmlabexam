@@ -1,15 +1,16 @@
 public class Calculator {
 
 	public static double res;
+	//add method
 	public static double add(double a, double b) {
 
-		res = a+b;
+		res = a + b;
 		return 0.0;
 	}
      
 	public static double subt(double a, double b) {
 
-		res = a-b;
+		res = a - b;
 		
 		return 0.0;
 	}
